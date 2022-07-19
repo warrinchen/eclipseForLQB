@@ -17,6 +17,10 @@ import java.util.TimeZone;
 
 public class Test {
 	public static void main(String[] args) {
+<<<<<<< HEAD
+=======
+        // test for push
+>>>>>>> b043307aff036ba070c66c1c3070ca3112d94822
 		InputStream inputStream = System.in;
 		OutputStream outputStream = System.out;
 		InputReader in = new InputReader(inputStream);
